@@ -2,6 +2,12 @@
 
 - sunbeam-kids-garden-server
 
+## links
+
+- client live link :
+- server git link : https://github.com/Md-Zehad-Sarkar/sunbeam-kids-garden-server.git
+- client git link : https://github.com/Md-Zehad-Sarkar/sunbeam-kids-garden-client.git
+
 # How to starts
 
 - for development : npm run start:dev
