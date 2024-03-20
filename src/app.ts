@@ -1,6 +1,8 @@
 import express, { Application, Request, Response } from 'express';
 import cors from 'cors';
-import { userRoutes } from './app/modules/users/user.route';
+import { router } from './app/routes/routes';
+import { globalErrorHandler } from './app/errors/global.error';
+import { apiNotFound } from './app/errors/apiNotFound';
 const app: Application = express();
 
 //middleware
@@ -8,10 +10,11 @@ app.use(express.json());
 app.use(cors());
 
 //application routes
-app.use('/', userRoutes);
+app.use('/api/v1', router);
 
 app.get('/', (req: Request, res: Response) => {
-  res.send('user data and order management server');
+  res.send('Sunbeam kids garden server are running');
 });
-
+app.use(globalErrorHandler);
+app.use(apiNotFound);
 export default app;

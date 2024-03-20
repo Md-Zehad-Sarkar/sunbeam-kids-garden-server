@@ -1,0 +1,119 @@
+[
+  {
+    "image": "https://example.com/kids/image1.jpg",
+    "title": "Cute Unicorn Print Dress",
+    "price": "$24.99",
+    "ratings": 4.8,
+    "brand": "TinyTots",
+    "category": "Girls' Clothing",
+    "description": "Adorable unicorn print dress for your little princess. Made with soft and comfortable fabric..."
+  },
+  {
+    "image": "https://example.com/kids/image2.jpg",
+    "title": "Boys' Dinosaur Graphic T-shirt",
+    "price": "$14.99",
+    "ratings": 4.5,
+    "brand": "DinoKids",
+    "category": "Boys' Clothing",
+    "description": "Let your little explorer show off his love for dinosaurs with this cool graphic t-shirt..."
+  },
+  {
+    "image": "https://example.com/kids/image3.jpg",
+    "title": "Girls' Floral Print Skirt",
+    "price": "$19.99",
+    "ratings": 4.7,
+    "brand": "FlowerChild",
+    "category": "Girls' Clothing",
+    "description": "Stylish floral print skirt that your daughter will love. Perfect for casual or dressy occasions..."
+  },
+  {
+    "image": "https://example.com/kids/image4.jpg",
+    "title": "Boys' Cargo Shorts",
+    "price": "$21.99",
+    "ratings": 4.6,
+    "brand": "ActiveKids",
+    "category": "Boys' Clothing",
+    "description": "Versatile cargo shorts for active boys. Features multiple pockets and durable fabric..."
+  },
+  {
+    "image": "https://example.com/kids/image5.jpg",
+    "title": "Girls' Rainbow Tutu Dress",
+    "price": "$29.99",
+    "ratings": 4.9,
+    "brand": "RainbowWonders",
+    "category": "Girls' Clothing",
+    "description": "Bring some magic to her wardrobe with this beautiful rainbow tutu dress. Perfect for parties and special occasions..."
+  },
+  {
+    "image": "https://example.com/kids/image6.jpg",
+    "title": "Boys' Sports Jersey",
+    "price": "$17.99",
+    "ratings": 4.4,
+    "brand": "SportyKids",
+    "category": "Boys' Clothing",
+    "description": "Get him ready for the game with this comfortable and breathable sports jersey..."
+  },
+  {
+    "image": "https://example.com/kids/image7.jpg",
+    "title": "Girls' Denim Overall Dress",
+    "price": "$26.99",
+    "ratings": 4.7,
+    "brand": "DenimDaze",
+    "category": "Girls' Clothing",
+    "description": "Classic denim overall dress with a modern twist. Perfect for playdates and outings..."
+  },
+  {
+    "image": "https://example.com/kids/image8.jpg",
+    "title": "Boys' Plaid Shirt",
+    "price": "$19.99",
+    "ratings": 4.5,
+    "brand": "PlaidPal",
+    "category": "Boys' Clothing",
+    "description": "Keep him looking sharp with this stylish plaid shirt. Made with soft and breathable fabric..."
+  },
+  {
+    "image": "https://example.com/kids/image9.jpg",
+    "title": "Girls' Ruffled Dress",
+    "price": "$22.99",
+    "ratings": 4.6,
+    "brand": "RuffleFairy",
+    "category": "Girls' Clothing",
+    "description": "Add a touch of whimsy to her wardrobe with this adorable ruffled dress. Perfect for parties and playtime..."
+  },
+  {
+    "image": "https://example.com/kids/image10.jpg",
+    "title": "Boys' Graphic Hoodie",
+    "price": "$34.99",
+    "ratings": 4.8,
+    "brand": "CoolKids",
+    "category": "Boys' Clothing",
+    "description": "Stay cozy and stylish with this cool graphic hoodie. Perfect for everyday wear..."
+  },
+  {
+    "image": "https://example.com/kids/image11.jpg",
+    "title": "Girls' Princess Costume",
+    "price": "$39.99",
+    "ratings": 4.9,
+    "brand": "PrincessParadise",
+    "category": "Girls' Clothing",
+    "description": "Let her imagination soar with this enchanting princess costume. Perfect for dress-up and playtime..."
+  },
+  {
+    "image": "https://example.com/kids/image12.jpg",
+    "title": "Boys' Cargo Pants",
+    "price": "$26.99",
+    "ratings": 4.7,
+    "brand": "UrbanKids",
+    "category": "Boys' Clothing",
+    "description": "Stylish and practical cargo pants for active boys. Features adjustable waistband and durable fabric..."
+  },
+  {
+    "image": "https://example.com/kids/image13.jpg",
+    "title": "Girls' Sequin Jacket",
+    "price": "$31.99",
+    "ratings": 4.8,
+    "brand": "SequinSparkle",
+    "category": "Girls' Clothing",
+    "description": "Add some sparkle to her outfit with this dazzling sequin jacket. Perfect for special occasions and parties..."
+  }
+]
