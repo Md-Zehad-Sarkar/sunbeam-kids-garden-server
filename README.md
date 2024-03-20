@@ -2,23 +2,28 @@
 
 - sunbeam-kids-garden-server
 
+# How to starts
+
+- for development : npm run start:dev
+- for production : npm run start:prod
+- for build : npm run build
+- for lint : npm run lint
+- for lint fixed : npm run lint:fix
+- for prettier : npm run prettier
+- for prettier fixed : npm run prettier:fix
+
 # Technologies
 
 - typescript
 - node/express
 - mongoose
--  dotenv, eslint
+- dotenv, eslint
 
-# Implements 
-- user create
-- all users find
-- user find by userId
-- update user information
-- delete a user
+# Implements
+
 - mongoose schema, model, middleware
-- password hashing with bcrypt
-- user validation with zod
 - eslint and prettier
 
-# Deploy 
+# Deploy
+
 - vercel
