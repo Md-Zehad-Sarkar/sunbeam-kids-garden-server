@@ -236,7 +236,7 @@
     "price": 150.99,
     "ratings": 4.8,
     "brand": "SequinSparkle",
-    "category": "babies-cloths",
+    "category": "kids-wear",
     "description": "Add some sparkle to her outfit with this dazzling sequin jacket. Perfect for special occasions and parties...",
     "flashSale": false,
     "createdAt": "2024-01-20T12:00:00Z"
@@ -281,6 +281,72 @@
     "ratings": 4.8,
     "brand": "SequinSparkle",
     "category": "babies-cloths",
+    "description": "Add some sparkle to her outfit with this dazzling sequin jacket. Perfect for special occasions and parties...",
+    "flashSale": false,
+    "createdAt": "2024-03-21T12:00:00Z"
+  },
+  {
+    "image": "https://i.ibb.co/x7G4jgz/tops.jpg",
+    "title": "Children Unicorn  Dress",
+    "price": 150.99,
+    "ratings": 4.8,
+    "category": "Tops",
+    "brand": "Little Adventures",
+    "description": "Add some sparkle to her outfit with this dazzling sequin jacket. Perfect for special occasions and parties...",
+    "flashSale": false,
+    "createdAt": "2024-03-21T12:00:00Z"
+  },
+  {
+    "image": "https://i.ibb.co/DCxM4r4/bottoms.jpg",
+    "title": "Children Unicorn  Dress",
+    "price": 150.99,
+    "ratings": 4.8,
+    "category": "Bottoms",
+    "brand": "Cozy Cubs",
+    "description": "Add some sparkle to her outfit with this dazzling sequin jacket. Perfect for special occasions and parties...",
+    "flashSale": false,
+    "createdAt": "2024-03-21T12:00:00Z"
+  },
+  {
+    "image": "https://i.ibb.co/nnyhZSL/dresses.jpg",
+    "title": "Children Unicorn  Dress",
+    "price": 140.89,
+    "ratings": 4.6,
+    "category": "Dresses",
+    "brand": "Twirling Fairies",
+    "description": "Add some sparkle to her outfit with this dazzling sequin jacket. Perfect for special occasions and parties...",
+    "flashSale": false,
+    "createdAt": "2024-03-21T12:00:00Z"
+  },
+  {
+    "image": "https://i.ibb.co/0fgTMDX/sleepwear.jpg",
+    "title": "Children Unicorn  Dress",
+    "price": 140.89,
+    "ratings": 4.6,
+    "category": "Sleepwear",
+    "brand": "Sleepyheads",
+    "description": "Add some sparkle to her outfit with this dazzling sequin jacket. Perfect for special occasions and parties...",
+    "flashSale": false,
+    "createdAt": "2024-03-21T12:00:00Z"
+  },
+  {
+    "image": "https://i.ibb.co/MBq5b9F/outwear.jpg",
+    "title": "Children Unicorn  Dress",
+    "price": 140.89,
+    "ratings": 4.6,
+    "category": "Outerwear",
+    "brand": "Mini Explorers",
+    "description": "Add some sparkle to her outfit with this dazzling sequin jacket. Perfect for special occasions and parties...",
+    "flashSale": false,
+    "createdAt": "2024-03-21T12:00:00Z"
+  },
+  {
+    "image": "https://i.ibb.co/ZBhrJ99/socks.jpg",
+    "title": "Children Unicorn  Dress",
+    "price": 120.69,
+    "ratings": 4.6,
+    "category": "Socks",
+    "brand": "Comfy Cubs",
     "description": "Add some sparkle to her outfit with this dazzling sequin jacket. Perfect for special occasions and parties...",
     "flashSale": false,
     "createdAt": "2024-03-21T12:00:00Z"

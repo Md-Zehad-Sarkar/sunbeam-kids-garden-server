@@ -11,5 +11,16 @@ const getAllProducts: RequestHandler = async (req, res) => {
     data: result,
   });
 };
+const getSingleProduct: RequestHandler = async (req, res) => {
+  const { productId } = req.params;
+  const result = await productServices.getSingleProductFromDB(productId);
 
-export const productsController = { getAllProducts };
+  sendResponse(res, {
+    statusCode: 200,
+    success: true,
+    message: 'Single product retrieved successful',
+    data: result,
+  });
+};
+
+export const productsController = { getAllProducts, getSingleProduct };

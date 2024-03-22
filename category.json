@@ -1,0 +1,56 @@
+[
+  {
+    "category": "tops",
+    "brand": "Little Adventures",
+    "categoryImage": "https://i.ibb.co/x7G4jgz/tops.jpg",
+    "createdAt": "2024-03-21T09:30:00.000Z"
+  },
+  {
+    "category": "bottoms",
+    "brand": "Cozy Cubs",
+    "categoryImage": "https://i.ibb.co/DCxM4r4/bottoms.jpg",
+    "createdAt": "2024-03-20T12:15:00.000Z"
+  },
+  {
+    "category": "dresses",
+    "brand": "Twirling Fairies",
+    "categoryImage": "https://i.ibb.co/nnyhZSL/dresses.jpg",
+    "createdAt": "2024-03-19T17:40:00.000Z"
+  },
+  {
+    "category": "sleepwear",
+    "brand": "Sleepyheads",
+    "categoryImage": "https://i.ibb.co/0fgTMDX/sleepwear.jpg",
+    "createdAt": "2024-03-18T15:20:00.000Z"
+  },
+  {
+    "category": "outerwear",
+    "brand": "Mini Explorers",
+    "categoryImage": "https://i.ibb.co/MBq5b9F/outwear.jpg",
+    "createdAt": "2024-03-17T10:00:00.000Z"
+  },
+  {
+    "category": "socks",
+    "brand": "Comfy Cubs",
+    "categoryImage": "https://i.ibb.co/ZBhrJ99/socks.jpg",
+    "createdAt": "2024-03-16T18:50:00.000Z"
+  },
+  {
+    "category": "kids-wear",
+    "brand": "UrbanKids",
+    "categoryImage": "https://i.ibb.co/s9676T9/jama3.jpg",
+    "createdAt": "2024-03-16T18:50:00.000Z"
+  },
+  {
+    "category": "children-clothes",
+    "brand": "SequinSparkle",
+    "categoryImage": "https://i.ibb.co/zRPftdv/girls-jacket2.jpg",
+    "createdAt": "2024-03-16T18:50:00.000Z"
+  },
+  {
+    "category": "babies-cloths",
+    "brand": "Comfy Cubs",
+    "categoryImage": "https://i.ibb.co/KWbKhG2/girls-jacket.jpg",
+    "createdAt": "2024-03-16T18:50:00.000Z"
+  }
+]

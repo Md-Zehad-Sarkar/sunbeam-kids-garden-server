@@ -9,6 +9,7 @@ const ProductSchema = new Schema<IProducts>({
   image: { type: String },
   rating: { type: Number },
   description: { type: String },
+  createdAt: { type: String },
 });
 
 export const Product = model<IProducts>('Product', ProductSchema);

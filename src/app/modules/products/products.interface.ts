@@ -6,4 +6,5 @@ export interface IProducts {
   image: string;
   rating: number;
   description: string;
+  createdAt?: string;
 }
