@@ -7,7 +7,7 @@ const app: Application = express();
 
 //middleware
 app.use(express.json());
-app.use(cors());
+app.use(cors({ origin: ['http://localhost:3000'] }));
 
 //application routes
 app.use('/api/v1', router);

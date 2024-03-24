@@ -10,6 +10,12 @@
 
 # How to starts
 
+- clone the project : git clone https://github.com/Md-Zehad-Sarkar/sunbeam-kids-garden-server.git
+- install dependency : npm install
+- change env.example to .env and change mongodb url
+
+### run and others command
+
 - for development : npm run start:dev
 - for production : npm run start:prod
 - for build : npm run build
@@ -23,7 +29,7 @@
 - typescript
 - node/express
 - mongoose
-- dotenv, eslint
+- dotenv, eslint, prettier
 
 # Implements
 
